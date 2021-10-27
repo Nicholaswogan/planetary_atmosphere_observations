@@ -1,0 +1,133 @@
+
+CH4:
+- citation: Cui et al. (2009)
+  DOI: 10.1016/j.icarus.2008.12.005
+  notes: Table 3
+  data:
+    - {alt: 981, mean: 0.0131, low: 0.0130, high: 0.0132}
+    - {alt: 1025, mean: 0.0178, low: 0.0177, high: 0.0179}
+    - {alt: 1077, mean: 0.0220, low: 0.0219, high: 0.0221}
+    - {alt: 1151, mean: 0.0300, low: 0.0299, high: 0.0301}
+- citation: Vuitton et al. (2006)
+  DOI: 10.1086/507467
+  notes: Table 1, column labeled "This Model"
+  data:
+    - {alt: 1100, mean: 3e-2}
+
+H2:
+- citation: Cui et al. (2009)
+  DOI: 10.1016/j.icarus.2008.12.005
+  notes: Table 3
+  data:
+    - {alt: 981, mean: 3.30e-3, low: 3.29e-3, high: 3.31e-3}
+    - {alt: 1025, mean: 3.72e-3, low: 3.71e-3, high: 3.73e-3}
+    - {alt: 1077, mean: 3.90e-3, low: 3.89e-3, high: 3.91e-3}
+    - {alt: 1151, mean: 4.28e-3, low: 4.27e-3, high: 4.29e-3}
+- citation: Vuitton et al. (2006)
+  DOI: 10.1086/507467
+  notes: Table 1, column labeled "This Model"
+  data:
+    - {alt: 1100, mean: 4e-3}
+
+HCN:
+- citation: Adriani et al. (2011)
+  DOI: 10.1016/j.icarus.2011.04.016
+  notes: Extracted from Figure 15.
+  data:
+    - {alt: 550.6, mean: 2.37e-06, low: 1.13e-06, high: 3.61e-06}
+    - {alt: 653.1, mean: 5.7e-05, low: 2.81e-05, high: 8.03e-05}
+    - {alt: 750.6, mean: 0.000334, low: 0.000142, high: 0.000504}
+    - {alt: 853.1, mean: 0.000876, low: 0.000237, high: 0.00149}
+    - {alt: 951.9, mean: 0.00322, low: 0.000936, high: 0.00571}
+    - {alt: 1051.9, mean: 0.00736, low: 0.00419, high: 0.0106}
+- citation: Vuitton et al. (2006)
+  DOI: 10.1086/507467
+  notes: Table 1, column labeled "This Model"
+  data:
+    - {alt: 1100, mean: 2e-4}
+- citation: Marten et al. (2002)
+  DOI: 10.1006/icar.2002.6897
+  notes: From Fig. 12
+  data:
+  - {alt: 53.0, mean: 9.89e-14}
+  - {alt: 86.4, mean: 2.0e-08}
+  - {alt: 97.5, mean: 3.83e-08}
+  - {alt: 179.4, mean: 3.84e-07}
+  - {alt: 449.4, mean: 7.53e-07}
+    
+HCCCN:
+- citation: Cui et al. (2009)
+  DOI: 10.1016/j.icarus.2008.12.005
+  notes: Table 3
+  data:
+    - {alt: 981, mean: 1.96e-6, low: 1.88e-6, high: 2.04e-6}
+    - {alt: 1025, mean: 1.43e-6, low: 1.37e-6, high: 1.49e-6}
+    - {alt: 1077, mean: 8.27e-7, low: 0, high: 8.27e-7}
+    - {alt: 1151, mean: 8.46e-7, low: 0, high: 8.46e-7}
+- citation: Vuitton et al. (2006)
+  DOI: 10.1086/507467
+  notes: Table 1, column labeled "This Model"
+  data:
+    - {alt: 1100, mean: 2e-5}
+- citation: Marten et al. (2002)
+  DOI: 10.1006/icar.2002.6897
+  notes: From Fig. 12
+  data:
+  - {alt: 69.2, mean: 9.88e-14}
+  - {alt: 70.9, mean: 2.94e-13}
+  - {alt: 302.8, mean: 1.04e-09}
+  - {alt: 453.9, mean: 3.66e-08}
+  - {alt: 501.7, mean: 6.17e-08}
+    
+CH3CN:
+- citation: Cui et al. (2009)
+  DOI: 10.1016/j.icarus.2008.12.005
+  notes: Table 3
+  data:
+    - {alt: 981, mean: 1.42e-6, low: 1.33e-6, high: 1.51e-6}
+    - {alt: 1025, mean: 1.51e-6, low: 1.43e-6, high: 1.59e-6}
+    - {alt: 1077, mean: 1.48e-6, low: 0, high: 1.48e-6}
+    - {alt: 1151, mean: 1.36e-6, low: 0, high: 1.36e-6}
+- citation: Vuitton et al. (2006)
+  DOI: 10.1086/507467
+  notes: Table 1, column labeled "This Model"
+  data:
+    - {alt: 1100, mean: 1e-5}
+- citation: Marten et al. (2002)
+  DOI: 10.1006/icar.2002.6897
+  notes: From Fig. 12
+  data:
+  - {alt: 77.8, mean: 9.67e-14}
+  - {alt: 84.5, mean: 9.73e-13}
+  - {alt: 159.1, mean: 5.65e-09}
+  - {alt: 499.2, mean: 4.6e-08}
+    
+C2H2:
+- citation: Vuitton et al. (2006)
+  DOI: 10.1086/507467
+  notes: Table 1, column labeled "This Model"
+  data:
+    - {alt: 1100, mean: 3e-4}
+    
+C2H4:
+- citation: Vuitton et al. (2006)
+  DOI: 10.1086/507467
+  notes: Table 1, column labeled "This Model"
+  data:
+    - {alt: 1100, mean: 6e-3}
+    
+C2H6:
+- citation: Vuitton et al. (2006)
+  DOI: 10.1086/507467
+  notes: Table 1, column labeled "This Model"
+  data:
+    - {alt: 1100, mean: 1e-4}
+
+C4H2:
+- citation: Vuitton et al. (2006)
+  DOI: 10.1086/507467
+  notes: Table 1, column labeled "This Model"
+  data:
+    - {alt: 1100, mean: 6e-5}
+
+    
