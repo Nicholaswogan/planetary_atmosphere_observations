@@ -1,0 +1,79 @@
+CH3:
+- citation: Moses et al. (2000)
+  DOI: 10.1006/icar.1999.6320
+  notes: Table 1
+  data:
+  - {P: 2.0000000000000002e-07, mix: 1e-7}
+
+CH4:
+- citation: Moses et al. (2000)
+  DOI: 10.1006/icar.1999.6320
+  notes: Table 1
+  data:
+  - {P: 0.002, P-low: 0.0002, P-high: 0.01, mix: 0.0043}
+  - {P-low: 0.05, P-high: 2.0, mix: 0.0025}
+  - {P-low: 0.05, P-high: 2.0, mix: 0.0042}
+  - {P-low: 0.04, P-high: 2.0, mix: 0.0022}
+  - {P-low: 0.001, P-high: 3.0, mix: 0.003}
+  - {P-low: 0.1, P-high: 1.5, mix: 0.0017}
+  - {P: 3.6e-08, mix: 9.1e-05}
+  - {P: 2.5999999999999998e-08, mix: 6.0e-05}
+  - {P: 1.4e-08, mix: 5.8e-06}
+  - {P: 2.5999999999999998e-08, mix: 0.00014}
+
+C2H2:
+- citation: Moses et al. (2000)
+  DOI: 10.1006/icar.1999.6320
+  notes: Table 1
+  data:
+  - {P: 0.003, P-low: 0.0006, P-high: 0.015, mix: 2e-7}
+  - {P: 0.0011, P-low: 0.0001, P-high: 0.01, mix: 3.6e-07}
+  - {P: 0.007, P-low: 0.002, P-high: 0.022, mix: 1.2e-07}
+  - {P: 0.0001, mix: 3.5e-06}
+  - {P: 0.001, mix: 2.5e-07}
+
+C2H6:
+- citation: Moses et al. (2000)
+  DOI: 10.1006/icar.1999.6320
+  notes: Table 1
+  data:
+  - {P: 0.0008, P-low: 0.00016, P-high: 0.004, mix: 2.9e-06}
+  - {P: 0.0011, P-low: 0.0001, P-high: 0.01, mix: 8e-6}
+  - {P: 0.002, P-low: 0.0001, P-high: 0.008, mix: 7.1e-06}
+  - {P: 0.001, P-low: 0.00015, P-high: 0.005, mix: 4e-6}
+
+CH3C2H:
+- citation: Moses et al. (2000)
+  DOI: 10.1006/icar.1999.6320
+  notes: Table 1
+  data:
+  - {P: 0.002, P-low: 0.0003, P-high: 0.01, mix: 4e-10}
+
+C4H2:
+- citation: Moses et al. (2000)
+  DOI: 10.1006/icar.1999.6320
+  notes: Table 1
+  data:
+  - {P: 0.002, P-low: 0.0003, P-high: 0.01, mix: 5e-11}
+
+CO:
+- citation: Moses et al. (2000)
+  DOI: 10.1006/icar.1999.6320
+  notes: Table 1
+  data:
+  - {P: 5.0, P-low: 2.0, P-high: 9.0, mix: 1e-9}
+
+CO2:
+- citation: Moses et al. (2000)
+  DOI: 10.1006/icar.1999.6320
+  notes: Table 1
+  data:
+  - {P: 0.002, P-low: 0.0003, P-high: 0.01, mix: 3e-10}
+
+H2O:
+- citation: Moses et al. (2000)
+  DOI: 10.1006/icar.1999.6320
+  notes: Table 1
+  data:
+  - {P-low: 0.0, P-high: 0.002, mix: 1.5e-07}
+  - {P: 0.0002, P-low: 7.000000000000001e-05, P-high: 0.0007, mix: 6e-9}
