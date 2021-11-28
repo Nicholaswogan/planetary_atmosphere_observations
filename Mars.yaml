@@ -1,5 +1,5 @@
 H2O:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson.
   data:
@@ -41,7 +41,7 @@ H2O:
   - {P: 0.006, mix: 0.000125}
 
 CO2:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson.
   data:
@@ -83,7 +83,7 @@ CO2:
   - {P: 0.006, mix: 0.953}
 
 O3:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson.
   data:
@@ -125,7 +125,7 @@ O3:
   - {P: 0.006, mix: 2.0e-08}
 
 CO:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson.
   data:
@@ -167,7 +167,7 @@ CO:
   - {P: 0.006, mix: 0.00038}
 
 O2:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson.
   data:
