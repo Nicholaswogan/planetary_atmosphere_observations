@@ -1,5 +1,5 @@
 H2O:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson
   data:
@@ -56,7 +56,7 @@ H2O:
   - {P: 92.1, mix: 1.84e-05}
 
 CO2:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson
   data:
@@ -113,7 +113,7 @@ CO2:
   - {P: 92.1, mix: 0.954}
 
 CO:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson
   data:
@@ -170,7 +170,7 @@ CO:
   - {P: 92.1, mix: 1.272e-05}
 
 SO2:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson
   data:
@@ -227,7 +227,7 @@ SO2:
   - {P: 92.1, mix: 9.425e-05}
 
 HF:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson
   data:
@@ -284,7 +284,7 @@ HF:
   - {P: 92.1, mix: 1.135e-09}
 
 HCl:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson
   data:
@@ -341,7 +341,7 @@ HCl:
   - {P: 92.1, mix: 3.97e-07}
 
 OCS:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson
   data:
@@ -398,7 +398,7 @@ OCS:
   - {P: 92.1, mix: 3.536e-05}
 
 H2S:
-  citation: null
+- citation: null
   DOI: null
   notes: From Ty Robinson
   data:
