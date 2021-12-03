@@ -1,4 +1,4 @@
-# planetary-atmosphere-observations
+# planetary_atmosphere_observations
 
 This repository contains observations of planetary atmospheres. The observations are stored in `yaml` format. For example,
 
