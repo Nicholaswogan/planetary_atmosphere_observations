@@ -135,7 +135,7 @@ CO:
 O3:
 - citation: Patel et al. (2021)
   DOI: 10.1029/2021JE006837
-  notes: Put all data into 5 km bins. Errors are 2 sigma in log space.
+  notes: Put all data into 5 km bins. Errors are 2 sigma in log10 space.
   data:
   - {alt: 2.5, mix: 1.148e-07, mix-low: 1.445e-08, mix-high: 9.122e-07}
   - {alt: 7.5, mix: 5.707e-08, mix-low: 3.302e-09, mix-high: 9.863e-07}
@@ -161,3 +161,31 @@ O3:
   - {alt: 107.5, mix: 5.899e-07, mix-low: 3.588e-09, mix-high: 9.699e-05}
   - {alt: 112.5, mix: 7.344e-07, mix-low: 4.828e-09, mix-high: 0.0001117}
   - {alt: 117.5, mix: 1.21e-06, mix-low: 7.011e-09, mix-high: 0.0002088}
+  
+H2O:
+- citation: Aoki et al. (2019)
+  DOI: 10.1029/2019JE006109
+  notes: Data from Figure 6a-e top plot. 5 km bins. Errors are 2 sigma in
+    log10 space.
+  data:
+  - {alt: 2.5, mix: 1.302e-05, mix-low: 4.079e-07, mix-high: 0.0004154}
+  - {alt: 7.5, mix: 6.078e-06, mix-low: 1.08e-07, mix-high: 0.0003419}
+  - {alt: 12.5, mix: 1.073e-05, mix-low: 8.408e-08, mix-high: 0.001369}
+  - {alt: 17.5, mix: 9.775e-06, mix-low: 3.437e-08, mix-high: 0.002781}
+  - {alt: 22.5, mix: 1.081e-05, mix-low: 1.824e-08, mix-high: 0.006412}
+  - {alt: 27.5, mix: 1.311e-05, mix-low: 2.132e-08, mix-high: 0.008067}
+  - {alt: 32.5, mix: 1.609e-05, mix-low: 3.225e-08, mix-high: 0.008023}
+  - {alt: 37.5, mix: 1.368e-05, mix-low: 3.103e-08, mix-high: 0.00603}
+  - {alt: 42.5, mix: 1.037e-05, mix-low: 3.068e-08, mix-high: 0.003508}
+  - {alt: 47.5, mix: 5.519e-06, mix-low: 2.108e-08, mix-high: 0.001445}
+  - {alt: 52.5, mix: 2.101e-06, mix-low: 1.14e-08, mix-high: 0.0003871}
+  - {alt: 57.5, mix: 6.996e-07, mix-low: 6.57e-09, mix-high: 7.451e-05}
+  - {alt: 62.5, mix: 2.462e-07, mix-low: 4.417e-09, mix-high: 1.373e-05}
+  - {alt: 67.5, mix: 1.275e-07, mix-low: 2.185e-09, mix-high: 7.446e-06}
+  - {alt: 72.5, mix: 7.98e-08, mix-low: 1.4e-09, mix-high: 4.549e-06}
+  - {alt: 77.5, mix: 7.605e-08, mix-low: 1.375e-09, mix-high: 4.206e-06}
+  - {alt: 82.5, mix: 8.994e-08, mix-low: 1.886e-09, mix-high: 4.289e-06}
+  - {alt: 87.5, mix: 5.556e-08, mix-low: 8.256e-10, mix-high: 3.738e-06}
+  - {alt: 92.5, mix: 2.512e-08, mix-low: 1.545e-10, mix-high: 4.086e-06}
+  - {alt: 97.5, mix: 1.186e-08, mix-low: 3.554e-11, mix-high: 3.957e-06}
+  - {alt: 102.5, mix: 7.412e-09, mix-low: 2.247e-11, mix-high: 2.445e-06}
