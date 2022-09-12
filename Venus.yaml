@@ -11,10 +11,14 @@ SO2:
   DOI: null
   notes: From Table 4 in Rimmer et al. (2021)
   data:
+  - {alt: 42.0, alt-low: 42.0, alt-high: 42.0, mix: 0.000176, mix-low: 0,
+    mix-high: 0.000176}
   - {alt: 22.0, alt-low: 22.0, alt-high: 22.0, mix: 0.000185, mix-low: 0.000142,
     mix-high: 0.000228}
   - {alt: 42.0, alt-low: 42.0, alt-high: 42.0, mix: 0.000324, mix-low: 0.000176,
     mix-high: 0.000472}
+  - {alt: 52.0, alt-low: 52.0, alt-high: 52.0, mix: 0.0006, mix-low: 0,
+    mix-high: 0.0006}
 - citation: Oyama1979
   DOI: null
   notes: From Table 4 in Rimmer et al. (2021)
@@ -53,6 +57,14 @@ SO2:
     mix-high: 6.0e-07}
   - {alt: 62.0, alt-low: 62.0, alt-high: 62.0, mix: 1.5e-06, mix-low: 1.0e-06,
     mix-high: 2.0e-06}
+- citation: Hoffman1980
+  DOI: null
+  notes: From Table 4 in Rimmer et al. (2021)
+  data:
+  - {alt: 22.0, alt-low: 22.0, alt-high: 22.0, mix: 0.0003, mix-low: 0,
+    mix-high: 0.0003}
+  - {alt: 52.0, alt-low: 52.0, alt-high: 52.0, mix: 1.0e-05, mix-low: 0,
+    mix-high: 1.0e-05}
 - citation: Encrenaz2012
   DOI: null
   notes: From Table 4 in Rimmer et al. (2021)
@@ -129,6 +141,12 @@ O2:
   data:
   - {alt: 46.5, alt-low: 35.0, alt-high: 58.0, mix: 1.8e-05, mix-low: 1.4e-05,
     mix-high: 2.2e-05}
+- citation: Marcq2018
+  DOI: null
+  notes: From Table 4 in Rimmer et al. (2021)
+  data:
+  - {alt: 80.0, alt-low: 60.0, alt-high: 100.0, mix: 2.8e-06, mix-low: 0,
+    mix-high: 2.8e-06}
 
 OCS:
 - citation: Marcq2008
@@ -141,6 +159,8 @@ OCS:
   DOI: null
   notes: From Table 4 in Rimmer et al. (2021)
   data:
+  - {alt: 65.0, alt-low: 65.0, alt-high: 65.0, mix: 4.0e-09, mix-low: 0,
+    mix-high: 4.0e-09}
   - {alt: 65.0, alt-low: 65.0, alt-high: 65.0, mix: 5.0e-09, mix-low: 2.0e-09,
     mix-high: 8.0e-09}
 - citation: Mukhin1982
@@ -531,12 +551,27 @@ H2O:
     mix-high: 4.0e-06}
   - {alt: 70.0, alt-low: 65.0, alt-high: 75.0, mix: 5.0e-06, mix-low: 3.0e-06,
     mix-high: 7.0e-06}
+- citation: Bell1991
+  DOI: null
+  notes: From Table 4 in Rimmer et al. (2021)
+  data:
+  - {alt: 65.0, alt-low: 65.0, alt-high: 65.0, mix: 8.0e-07, mix-low: 0,
+    mix-high: 8.0e-07}
+  - {alt: 55.0, alt-low: 55.0, alt-high: 55.0, mix: 0.0001, mix-low: 0,
+    mix-high: 0.0001}
+  - {alt: 40.0, alt-low: 40.0, alt-high: 40.0, mix: 0.0002, mix-low: 0,
+    mix-high: 0.0002}
 - citation: Evans1969
   DOI: null
   notes: From Table 4 in Rimmer et al. (2021)
   data:
   - {alt: 22.5, alt-low: 15.0, alt-high: 30.0, mix: 1.0e-05, mix-low: 9.0e-06,
     mix-high: 1.1e-05}
+- citation: Surkov1987
+  DOI: null
+  notes: From Table 4 in Rimmer et al. (2021)
+  data:
+  - {alt: 56.0, alt-low: 52.0, alt-high: 60.0, mix: 0.0, mix-low: 0, mix-high: 0.0}
 - citation: Chamber2013
   DOI: null
   notes: From Table 4 in Rimmer et al. (2021)
@@ -607,3 +642,8 @@ H2O:
   data:
   - {alt: 92.5, alt-low: 65.0, alt-high: 120.0, mix: 2.5e-06, mix-low: 1.9e-06,
     mix-high: 3.1e-06}
+- citation: Surkov1982
+  DOI: null
+  notes: From Table 4 in Rimmer et al. (2021)
+  data:
+  - {alt: 48.0, alt-low: 46.0, alt-high: 50.0, mix: 0.0, mix-low: 0, mix-high: 0.0}
