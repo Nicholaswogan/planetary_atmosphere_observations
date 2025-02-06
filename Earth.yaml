@@ -166,17 +166,56 @@ CO:
   - {alt: 70.0, mix: 1.0e-06, mix-high: 1.22e-06, mix-low: 7.8e-07}
 
 H2SO4:
-- citation: Mills et al. (2005)
-  DOI: 10.1029/2004JD005519
+- citation: Viggiano and Arnold (1981)
+  DOI: 10.1029/GL008i006p00583
+  notes: Extracted from Figure 1, and converted to volume mixing ratio.
+  data:
+  - {alt: 29.94, mix: 2.25e-13}
+  - {alt: 30.65, mix: 2.5e-12}
+  - {alt: 31.03, mix: 3.29e-12}
+  - {alt: 31.42, mix: 3.93e-12}
+  - {alt: 31.95, mix: 7.26e-12}
+  - {alt: 32.51, mix: 2.21e-11}
+  - {alt: 33.72, mix: 8.49e-11}
+  - {alt: 36.28, mix: 7.16e-11}
+  - {alt: 36.73, mix: 5.97e-11}
+  - {alt: 37.08, mix: 2.67e-11}
+  - {alt: 37.73, mix: 2.61e-11}
+  - {alt: 38.02, mix: 4.78e-11}
+  - {alt: 38.44, mix: 2.95e-11}
+  - {alt: 38.91, mix: 1.74e-11}
+
+SO2:
+- citation: Georgii and Meixner (1980)
+  DOI: 10.1029/JC085iC12p07433
+  notes: Table 1. Computed the mean mixing ratio at each altitude. High and low
+  mixing ratios are the upper and lower bound measurements.
+  data:
+  - {alt: 2.1, mix: 0.63e-9,  mix-high: 1.64e-09, mix-low: 0.1e-9}
+  - {alt: 2.7, mix: 0.115e-9, mix-high: 0.13e-9, mix-low: 0.10e-9}
+  - {alt: 3.4, mix: 0.11e-9,  mix-high: 0.15e-9, mix-low: 0.09e-9}
+  - {alt: 4.6, mix: 0.095e-9, mix-high: 0.10e-9, mix-low: 0.09e-9}
+- citation: Jaeschke et al. (1976)
+  DOI: 10.1029/GL003i009p00517
   notes: null
   data:
-  - {alt: 30.0, mix: 2.299e-13}
-  - {alt: 31.0, mix: 2.977e-12}
-  - {alt: 32.0, mix: 6.935e-12}
-  - {alt: 32.5, mix: 1.873e-11}
-  - {alt: 33.5, mix: 8.774e-11}
-  - {alt: 36.5, mix: 5.579e-11}
-  - {alt: 37.0, mix: 2.257e-11}
-  - {alt: 38.0, mix: 4.807e-11}
-  - {alt: 40.0, mix: 2.113e-11}
+  - {alt: 13.0, mix: 5.2e-11}
 
+OCS:
+- citation: Inn et al. (1979)
+  DOI: 10.1029/GL006i003p00191
+  notes: Table 1. Computed the mean mixing ratio at each altitude. High and low
+  mixing ratios are the upper and lower bound measurements.
+  data: 
+  - {alt: 15.2, mix: 4.11e-10, mix-high: 5.24e-10, mix-low: 2.58e-10}
+  - {alt: 21.3, mix: 2.84e-10, mix-high: 4.93e-10, mix-low: 1.76e-10}
+  - {alt: 31.2, mix: 1.58e-11, mix-high: 1.78e-11, mix-low: 1.38e-11}
+- citation: Barkley et al. (2008)
+  DOI: 10.1029/2008GL034270
+  notes: Extracted from Figure 4, upper right panel. The "Global" values.
+  data: 
+  - {alt: 10.0, mix: 4.14e-10}
+  - {alt: 15.0, mix: 3.31e-10}
+  - {alt: 20.0, mix: 1.73e-10}
+  - {alt: 25.0, mix: 1.38e-10}
+  - {alt: 30.0, mix: 6.45e-11}
