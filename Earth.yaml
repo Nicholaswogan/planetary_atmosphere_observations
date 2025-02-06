@@ -189,7 +189,7 @@ SO2:
 - citation: Georgii and Meixner (1980)
   DOI: 10.1029/JC085iC12p07433
   notes: Table 1. Computed the mean mixing ratio at each altitude. High and low
-  mixing ratios are the upper and lower bound measurements.
+    mixing ratios are the upper and lower bound measurements.
   data:
   - {alt: 2.1, mix: 0.63e-9,  mix-high: 1.64e-09, mix-low: 0.1e-9}
   - {alt: 2.7, mix: 0.115e-9, mix-high: 0.13e-9, mix-low: 0.10e-9}
@@ -205,7 +205,7 @@ OCS:
 - citation: Inn et al. (1979)
   DOI: 10.1029/GL006i003p00191
   notes: Table 1. Computed the mean mixing ratio at each altitude. High and low
-  mixing ratios are the upper and lower bound measurements.
+    mixing ratios are the upper and lower bound measurements.
   data: 
   - {alt: 15.2, mix: 4.11e-10, mix-high: 5.24e-10, mix-low: 2.58e-10}
   - {alt: 21.3, mix: 2.84e-10, mix-high: 4.93e-10, mix-low: 1.76e-10}
