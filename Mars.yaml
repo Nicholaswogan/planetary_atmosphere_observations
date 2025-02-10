@@ -41,4 +41,4 @@ H2O2:
   DOI: 10.1051/0004-6361/201935300
   notes: Crudely estimating error.
   data:
-  - {alt: 5.0, alt-high: 10.0, alt-low: 0.0, mix: 10e-9, mix-high: 55e-9, mix-low: 1e-9}
+  - {alt: 5.0, alt-high: 10.0, alt-low: 0.0, mix: 10.0e-9, mix-high: 55.0e-9, mix-low: 1.0e-9}
