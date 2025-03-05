@@ -114,7 +114,7 @@ HCN:
   DOI: 10.1006/icar.1995.1198
   notes: null
   data:
-  - {P: 0.5, P-high: 1, P-low: 0.1, mix: 1.0e-9, mix-high: 1.0e-9, mix-low: 0.0}
+  - {P: 0.32, P-high: 1, P-low: 0.1, mix: 1.0e-9, mix-high: 1.0e-9, mix-low: 0.0}
 
 NH3:
 - citation: Moeckel et al. (2023)
