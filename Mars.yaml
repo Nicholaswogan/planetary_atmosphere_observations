@@ -42,3 +42,10 @@ H2O2:
   notes: Crudely estimating error.
   data:
   - {alt: 5.0, alt-high: 10.0, alt-low: 0.0, mix: 10.0e-9, mix-high: 55.0e-9, mix-low: 1.0e-9}
+
+HO2:
+- citation: Alday et al. (2024)
+  DOI: 10.1093/mnras/stae1814
+  notes: TGO
+  data:
+  - {alt: 15.0, alt-high: 20.0, alt-low: 10.0, mix: 15.0e-9, mix-high: 15.0e-9, mix-low: 0.0}
