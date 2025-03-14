@@ -103,7 +103,7 @@ C2H6:
   - {P: 0.017, P-high: 0.1, P-low: 0.006, mix: 5.0e-06, mix-high: 6.0e-06, mix-low: 4.0e-06}
   - {P: 0.005, P-high: 0.03, P-low: 0.0007, mix: 4.0e-06, mix-high: 6.4e-06, mix-low: 1.6e-06}
 - citation: Fouchet et al. (2000)
-  DOI: 10.48550/arXiv.astro-ph/0002273
+  DOI: 2000A&A...355L..13F
   notes: From Tsai et al. (2021), Figure 5
   data:
   - {P: 0.001, P-high: 0.002, P-low: 0.0005, mix: 8.62e-06, mix-high: 1.03e-05, mix-low: 6.9e-06}

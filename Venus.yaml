@@ -69,13 +69,13 @@ OCS:
   - {alt: 36.0, alt-low: 36.0, alt-high: 36.0, mix: 6.1e-07, mix-low: 4.9e-07,
     mix-high: 7.3e-07}
 - citation: Marcq2008
-  DOI: 2008JGRE..113.0B07M
+  DOI: 10.1029/2008JE003074
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 33.0, alt-low: 33.0, alt-high: 33.0, mix: 3.25e-06, mix-low: 2.5e-06,
     mix-high: 4.0e-06}
 - citation: Bezard2007
-  DOI: 2007JGRE..112.4S07B
+  DOI: 10.1029/2006JE002794
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 15.0, alt-low: 0.0, alt-high: 30.0, mix: 1.5e-05, mix-low: 1.0e-05,
@@ -139,7 +139,7 @@ CO:
   - {alt: 70.0, alt-low: 70.0, alt-high: 70.0, mix: 3.5e-05, mix-low: 2.5e-05,
     mix-high: 4.5e-05}
 - citation: Marcq2008
-  DOI: 2008JGRE..113.0B07M
+  DOI: 10.1029/2008JE003074
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
@@ -200,7 +200,7 @@ CO:
   - {alt: 36.0, alt-low: 36.0, alt-high: 36.0, mix: 2.4e-05, mix-low: 2.2e-05,
     mix-high: 2.6e-05}
 - citation: Bezard2007
-  DOI: 2007JGRE..112.4S07B
+  DOI: 10.1029/2006JE002794
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 28.0, alt-low: 28.0, alt-high: 28.0, mix: 2.3e-05, mix-low: 1.3e-05,
@@ -262,7 +262,7 @@ CO:
   - {alt: 40.0, alt-low: 35.0, alt-high: 45.0, mix: 4.5e-05, mix-low: 3.5e-05,
     mix-high: 5.5e-05}
 - citation: Tsang2008
-  DOI: 2008JGRE..113.0B08T
+  DOI: 10.1029/2008JE003089
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 35.0, alt-low: 35.0, alt-high: 35.0, mix: 2.3e-05, mix-low: 2.1e-05,
@@ -439,7 +439,7 @@ H2O:
   - {alt: 7.5, alt-low: 0.0, alt-high: 15.0, mix: 2.7e-05, mix-low: 2.5e-05,
     mix-high: 2.9e-05}
 - citation: Marcq2008
-  DOI: 2008JGRE..113.0B07M
+  DOI: 10.1029/2008JE003074
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 35.0, alt-low: 30.0, alt-high: 40.0, mix: 3.1e-05, mix-low: 2.9e-05,
@@ -488,7 +488,7 @@ H2O:
   - {alt: 35.0, alt-low: 30.0, alt-high: 40.0, mix: 2.6e-05, mix-low: 2.2e-05,
     mix-high: 3.0e-05}
 - citation: Fedorova2008
-  DOI: 2008JGRE..113.0B22F
+  DOI: 10.1029/2008JE003146
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     11, 12'
   data:
@@ -504,7 +504,7 @@ H2O:
   - {alt: 18.0, alt-low: 10.0, alt-high: 26.0, mix: 2.8e-05, mix-low: 1.0e-05,
     mix-high: 4.6e-05}
 - citation: Bezard2007
-  DOI: 2007JGRE..112.4S07B
+  DOI: 10.1029/2006JE002794
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 22.5, alt-low: 5.0, alt-high: 40.0, mix: 3.0e-05, mix-low: 2.0e-05,
@@ -555,7 +555,7 @@ H2O:
   - {alt: 0.0, alt-low: 0.0, alt-high: 0.0, mix: 2.0e-05, mix-low: 1.0e-05,
     mix-high: 3.0e-05}
 - citation: Tsang2008
-  DOI: 2008JGRE..113.0B08T
+  DOI: 10.1029/2008JE003089
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venus
     Express'
   data:
@@ -635,7 +635,7 @@ S3:
   - {alt: 11.0, alt-low: 3.0, alt-high: 19.0, mix: 6.5e-11, mix-low: 3.0e-11,
     mix-high: 1.0e-10}
 - citation: Bezard2007
-  DOI: 2007JGRE..112.4S07B
+  DOI: 10.1029/2006JE002794
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     11'
   data:
@@ -729,7 +729,7 @@ SO2:
   - {alt: 50.0, alt-low: 45.0, alt-high: 55.0, mix: 0.000126, mix-low: 9.4e-05,
     mix-high: 0.000158}
 - citation: Marcq2008
-  DOI: 2008JGRE..113.0B07M
+  DOI: 10.1029/2008JE003074
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 35.0, alt-low: 30.0, alt-high: 40.0, mix: 0.00013, mix-low: 8.0e-05,
@@ -761,7 +761,7 @@ SO2:
   - {alt: 42.0, alt-low: 42.0, alt-high: 42.0, mix: 0.0002, mix-low: 0.0001,
     mix-high: 0.0003}
 - citation: Bezard2007
-  DOI: 2007JGRE..112.4S07B
+  DOI: 10.1029/2006JE002794
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 40.0, alt-low: 35.0, alt-high: 45.0, mix: 0.00013, mix-low: 9.0e-05,
