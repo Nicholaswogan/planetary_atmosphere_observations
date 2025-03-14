@@ -1,6 +1,6 @@
 CH4:
 - citation: Drossart et al. (1999)
-  DOI: null
+  DOI: 1999ESASP.427..169D
   notes: From Tsai et al. (2021), Figure 5. https://ui.adsabs.harvard.edu/abs/1999ESASP.427..169D/abstract
   data:
   - {P: 1.03e-05, mix: 0.00109}
@@ -50,7 +50,7 @@ CH4:
 
 CO:
 - citation: Bezard et al. (2002)
-  DOI: https://doi.org/10.1006/icar.2002.6917
+  DOI: 10.1006/icar.2002.6917
   notes: From Tsai et al. (2021), Figure 5
   data:
   - {P: 6.0, mix: 1.0e-09}
@@ -82,7 +82,7 @@ C2H4:
   - {P: 5.0e-06, P-high: 1.0e-05, P-low: 2.5e-06, mix: 5.5e-07, mix-high: 1.1e-06, mix-low: 2.75e-07}
   - {P: 2.2e-06, P-high: 4.4e-06, P-low: 1.1e-06, mix: 1.1e-06, mix-high: 2.2e-06, mix-low: 5.5e-07}
 - citation: Bezard et al. (2001)
-  DOI: null
+  DOI: 2001DPS....33.2207B
   notes: From Tsai et al. (2021), Figure 5. https://ui.adsabs.harvard.edu/abs/2001DPS....33.2207B/abstract
   data: 
   - {P: 0.001, P-high: 0.002, P-low: 0.0005, mix: 6.0e-10, mix-high: 1.02e-09, mix-low: 3.9e-10}

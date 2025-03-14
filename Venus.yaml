@@ -1,18 +1,18 @@
 PH3:
 - citation: Greaves2020b
-  DOI: null
+  DOI: 2020b
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 57.5, alt-low: 55.0, alt-high: 60.0, mix: 1.5e-09, mix-low: 5.0e-10,
     mix-high: 2.5e-09}
 - citation: Encrenaz2020
-  DOI: null
+  DOI: 2020A&A...643L...5E
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 62.5, alt-low: 60.0, alt-high: 65.0, mix: 5.0e-09, mix-low: 0,
     mix-high: 5.0e-09}
 - citation: Greaves2020
-  DOI: null
+  DOI: 2020NatAs.tmp..178G
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 57.5, alt-low: 55.0, alt-high: 60.0, mix: 2.0e-08, mix-low: 1.0e-08,
@@ -20,7 +20,7 @@ PH3:
 
 H2SO4:
 - citation: Oschlisniok2012
-  DOI: null
+  DOI: 2012Icar..221..940O
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venus
     Express'
   data:
@@ -29,7 +29,7 @@ H2SO4:
 
 H2S:
 - citation: Kras2008
-  DOI: null
+  DOI: 2008Icar..197..377K
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 70.0, alt-low: 70.0, alt-high: 70.0, mix: 1.3e-08, mix-low: 0,
@@ -37,7 +37,7 @@ H2S:
 
 OCS:
 - citation: Pollack1993
-  DOI: null
+  DOI: 1993Icar..103....1P
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 30.0, alt-low: 30.0, alt-high: 30.0, mix: 1.4e-05, mix-low: 8.0e-06,
@@ -49,14 +49,14 @@ OCS:
   - {alt: 30.0, alt-low: 30.0, alt-high: 30.0, mix: 1.4e-05, mix-low: 8.0e-06,
     mix-high: 2.0e-05}
 - citation: Marcq2006
-  DOI: null
+  DOI: 2006P&SS...54.1360M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venus
     Express'
   data:
   - {alt: 36.0, alt-low: 36.0, alt-high: 36.0, mix: 5.2e-07, mix-low: 4.7e-07,
     mix-high: 5.7e-07}
 - citation: Arney2014
-  DOI: null
+  DOI: 2014JGRE..119.1860A
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     13, 14'
   data:
@@ -69,13 +69,13 @@ OCS:
   - {alt: 36.0, alt-low: 36.0, alt-high: 36.0, mix: 6.1e-07, mix-low: 4.9e-07,
     mix-high: 7.3e-07}
 - citation: Marcq2008
-  DOI: null
+  DOI: 2008JGRE..113.0B07M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 33.0, alt-low: 33.0, alt-high: 33.0, mix: 3.25e-06, mix-low: 2.5e-06,
     mix-high: 4.0e-06}
 - citation: Bezard2007
-  DOI: null
+  DOI: 2007JGRE..112.4S07B
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 15.0, alt-low: 0.0, alt-high: 30.0, mix: 1.5e-05, mix-low: 1.0e-05,
@@ -85,7 +85,7 @@ OCS:
   - {alt: 38.0, alt-low: 38.0, alt-high: 38.0, mix: 3.5e-07, mix-low: 2.5e-07,
     mix-high: 4.5e-07}
 - citation: Mukhin1982
-  DOI: null
+  DOI: 1982SvAL....8..216M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 33.0, alt-low: 29.0, alt-high: 37.0, mix: 4.0e-05, mix-low: 2.0e-05,
@@ -97,7 +97,7 @@ OCS:
   - {alt: 33.0, alt-low: 29.0, alt-high: 37.0, mix: 4.0e-05, mix-low: 2.0e-05,
     mix-high: 6.0e-05}
 - citation: Kras2010
-  DOI: null
+  DOI: 2010Icar..209..314K
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 65.0, alt-low: 65.0, alt-high: 65.0, mix: 4.0e-09, mix-low: 0,
@@ -105,7 +105,7 @@ OCS:
   - {alt: 65.0, alt-low: 65.0, alt-high: 65.0, mix: 5.0e-09, mix-low: 2.0e-09,
     mix-high: 8.0e-09}
 - citation: Marcq2005
-  DOI: null
+  DOI: 2005Icar..179..375M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     13, 14'
   data:
@@ -118,42 +118,42 @@ OCS:
 
 CO:
 - citation: Wilson1981
-  DOI: null
+  DOI: 1981Icar...45..624W
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venus
     Express'
   data:
   - {alt: 90.0, alt-low: 90.0, alt-high: 90.0, mix: 0.00018, mix-low: 9.0e-05,
     mix-high: 0.00027}
 - citation: Young1972
-  DOI: null
+  DOI: 1972Icar...17..632Y
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venus
     Express'
   data:
   - {alt: 64.0, alt-low: 64.0, alt-high: 64.0, mix: 5.1e-05, mix-low: 5.0e-05,
     mix-high: 5.2e-05}
 - citation: Marcq2015
-  DOI: null
+  DOI: 2015P&SS..113..256M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venus
     Express'
   data:
   - {alt: 70.0, alt-low: 70.0, alt-high: 70.0, mix: 3.5e-05, mix-low: 2.5e-05,
     mix-high: 4.5e-05}
 - citation: Marcq2008
-  DOI: null
+  DOI: 2008JGRE..113.0B07M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
   - {alt: 36.0, alt-low: 36.0, alt-high: 36.0, mix: 2.75e-05, mix-low: 2.4e-05,
     mix-high: 3.1e-05}
 - citation: Cotton2012
-  DOI: null
+  DOI: 2012Icar..217..570C
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     13, 14'
   data:
   - {alt: 36.0, alt-low: 36.0, alt-high: 36.0, mix: 2.7e-05, mix-low: 2.4e-05,
     mix-high: 3.0e-05}
 - citation: Grassi2014
-  DOI: null
+  DOI: 2014JGRE..119..837G
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     13, 14'
   data:
@@ -162,7 +162,7 @@ CO:
   - {alt: 70.0, alt-low: 65.0, alt-high: 75.0, mix: 6.0e-05, mix-low: 5.5e-05,
     mix-high: 6.5e-05}
 - citation: Oyama1980
-  DOI: null
+  DOI: 1980JGR....85.7891O
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
@@ -173,7 +173,7 @@ CO:
   - {alt: 22.0, alt-low: 22.0, alt-high: 22.0, mix: 2.0e-05, mix-low: 1.7e-05,
     mix-high: 2.3e-05}
 - citation: Kras2010
-  DOI: null
+  DOI: 2010Icar..209..314K
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
@@ -182,7 +182,7 @@ CO:
   - {alt: 68.0, alt-low: 68.0, alt-high: 68.0, mix: 4.0e-05, mix-low: 3.6e-05,
     mix-high: 4.4e-05}
 - citation: Pollack1993
-  DOI: null
+  DOI: 1993Icar..103....1P
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
@@ -193,14 +193,14 @@ CO:
   - {alt: 36.0, alt-low: 36.0, alt-high: 36.0, mix: 2.3e-05, mix-low: 1.3e-05,
     mix-high: 3.3e-05}
 - citation: Marcq2006
-  DOI: null
+  DOI: 2006P&SS...54.1360M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     12'
   data:
   - {alt: 36.0, alt-low: 36.0, alt-high: 36.0, mix: 2.4e-05, mix-low: 2.2e-05,
     mix-high: 2.6e-05}
 - citation: Bezard2007
-  DOI: null
+  DOI: 2007JGRE..112.4S07B
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 28.0, alt-low: 28.0, alt-high: 28.0, mix: 2.3e-05, mix-low: 1.3e-05,
@@ -208,7 +208,7 @@ CO:
   - {alt: 42.0, alt-low: 42.0, alt-high: 42.0, mix: 3.0e-05, mix-low: 1.5e-05,
     mix-high: 4.5e-05}
 - citation: Collard1993
-  DOI: null
+  DOI: 1993P&SS...41..487C
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 30.0, alt-low: 30.0, alt-high: 30.0, mix: 3.0e-05, mix-low: 2.5e-05,
@@ -216,13 +216,13 @@ CO:
   - {alt: 30.0, alt-low: 30.0, alt-high: 30.0, mix: 4.0e-05, mix-low: 3.5e-05,
     mix-high: 4.5e-05}
 - citation: Kras2008
-  DOI: null
+  DOI: 2008Icar..197..377K
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 69.5, alt-low: 68.0, alt-high: 71.0, mix: 7.0e-05, mix-low: 6.2e-05,
     mix-high: 7.8e-05}
 - citation: Fegley2014
-  DOI: null
+  DOI: 2014pacs.book..127F
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 64.0, alt-low: 64.0, alt-high: 64.0, mix: 4.5e-05, mix-low: 3.5e-05,
@@ -230,7 +230,7 @@ CO:
   - {alt: 0.0, alt-low: 0.0, alt-high: 0.0, mix: 3.8e-06, mix-low: 6.0e-07,
     mix-high: 7.0e-06}
 - citation: Kras2014
-  DOI: null
+  DOI: 2014Icar..237..340K
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 104.0, alt-low: 104.0, alt-high: 104.0, mix: 0.00056, mix-low: 0.00046,
@@ -238,31 +238,31 @@ CO:
   - {alt: 104.0, alt-low: 104.0, alt-high: 104.0, mix: 0.00056, mix-low: 0.00046,
     mix-high: 0.00066}
 - citation: Gelman1979
-  DOI: null
+  DOI: 1979STIN...7925964G
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 21.0, alt-low: 0.0, alt-high: 42.0, mix: 2.8e-05, mix-low: 2.1e-05,
     mix-high: 3.5e-05}
 - citation: Oyama1979
-  DOI: null
+  DOI: 1979Sci...203..802O
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 22.0, alt-low: 22.0, alt-high: 22.0, mix: 2.0e-05, mix-low: 1.96e-05,
     mix-high: 2.04e-05}
 - citation: Connes1968
-  DOI: null
+  DOI: 1968ApJ...152..731C
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 64.0, alt-low: 64.0, alt-high: 64.0, mix: 4.5e-05, mix-low: 3.5e-05,
     mix-high: 5.5e-05}
 - citation: Bezard1990
-  DOI: null
+  DOI: 1990Natur.345..508B
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 40.0, alt-low: 35.0, alt-high: 45.0, mix: 4.5e-05, mix-low: 3.5e-05,
     mix-high: 5.5e-05}
 - citation: Tsang2008
-  DOI: null
+  DOI: 2008JGRE..113.0B08T
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 35.0, alt-low: 35.0, alt-high: 35.0, mix: 2.3e-05, mix-low: 2.1e-05,
@@ -270,7 +270,7 @@ CO:
   - {alt: 35.0, alt-low: 35.0, alt-high: 35.0, mix: 3.2e-05, mix-low: 3.0e-05,
     mix-high: 3.4e-05}
 - citation: Marcq2005
-  DOI: null
+  DOI: 2005Icar..179..375M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 35.0, alt-low: 35.0, alt-high: 35.0, mix: 3.0e-05, mix-low: 1.5e-05,
@@ -278,13 +278,13 @@ CO:
 
 SO:
 - citation: Na1990
-  DOI: null
+  DOI: 1990JGR....95.7485N
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 80.0, alt-low: 75.0, alt-high: 85.0, mix: 5.0e-09, mix-low: 1.0e-09,
     mix-high: 9.0e-09}
 - citation: Encrenaz2015
-  DOI: null
+  DOI: 2015P&SS..113..275E
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 87.0, alt-low: 84.0, alt-high: 90.0, mix: 8.0e-09, mix-low: 6.0e-09,
@@ -294,7 +294,7 @@ SO:
 
 O2:
 - citation: Oyama1980
-  DOI: null
+  DOI: 1980JGR....85.7891O
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
@@ -303,14 +303,14 @@ O2:
   - {alt: 42.0, alt-low: 42.0, alt-high: 42.0, mix: 1.6e-05, mix-low: 9.0e-06,
     mix-high: 2.3e-05}
 - citation: Mukhin1982
-  DOI: null
+  DOI: 1982SvAL....8..216M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
   - {alt: 46.5, alt-low: 35.0, alt-high: 58.0, mix: 1.8e-05, mix-low: 1.4e-05,
     mix-high: 2.2e-05}
 - citation: Oyama1979
-  DOI: null
+  DOI: 1979Sci...203..802O
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
@@ -319,7 +319,7 @@ O2:
   - {alt: 42.0, alt-low: 42.0, alt-high: 42.0, mix: 1.6e-05, mix-low: 8.0e-06,
     mix-high: 2.4e-05}
 - citation: Marcq2018
-  DOI: null
+  DOI: 2018SSRv..214...10M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
@@ -328,21 +328,21 @@ O2:
 
 H2:
 - citation: Donahue1997
-  DOI: null
+  DOI: 1997veii.conf..385D
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
   - {alt: 12.5, alt-low: 0.0, alt-high: 25.0, mix: 1.0e-05, mix-low: 0,
     mix-high: 1.0e-05}
 - citation: Mukhin1982
-  DOI: null
+  DOI: 1982SvAL....8..216M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
   - {alt: 53.5, alt-low: 49.0, alt-high: 58.0, mix: 2.5e-05, mix-low: 1.5e-05,
     mix-high: 3.5e-05}
 - citation: Oyama1980
-  DOI: null
+  DOI: 1980JGR....85.7891O
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     13,14'
   data:
@@ -351,14 +351,14 @@ H2:
 
 H2O:
 - citation: Moroz1990
-  DOI: null
+  DOI: 1990AdSpR..10e..77M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venus
     Express'
   data:
   - {alt: 59.0, alt-low: 58.0, alt-high: 60.0, mix: 2.0e-05, mix-low: 1.0e-05,
     mix-high: 3.0e-05}
 - citation: Donahue1997
-  DOI: null
+  DOI: 1997veii.conf..385D
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venus
     Express'
   data:
@@ -367,7 +367,7 @@ H2O:
   - {alt: 55.3, alt-low: 55.3, alt-high: 55.3, mix: 4.2e-06, mix-low: 1.2e-06,
     mix-high: 7.2e-06}
 - citation: Fedorova2015
-  DOI: null
+  DOI: 2015P&SS..113...66F
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venus
     Express'
   data:
@@ -376,54 +376,54 @@ H2O:
   - {alt: 7.5, alt-low: 0.0, alt-high: 15.0, mix: 2.94e-05, mix-low: 2.78e-05,
     mix-high: 3.1e-05}
 - citation: Evans1969
-  DOI: null
+  DOI: 1969veat.conf..169E
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
   - {alt: 22.5, alt-low: 15.0, alt-high: 30.0, mix: 1.0e-05, mix-low: 9.0e-06,
     mix-high: 1.1e-05}
 - citation: Fedorova2016
-  DOI: null
+  DOI: 2016Icar..275..143F
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
   - {alt: 69.5, alt-low: 65.0, alt-high: 74.0, mix: 6.0e-06, mix-low: 2.0e-06,
     mix-high: 1.0e-05}
 - citation: Bezard2011
-  DOI: null
+  DOI: 2011Icar..216..173B
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venus
     Express'
   data:
   - {alt: 7.5, alt-low: 0.0, alt-high: 15.0, mix: 3.0e-05, mix-low: 2.0e-05,
     mix-high: 4.0e-05}
 - citation: Sandor2005
-  DOI: null
+  DOI: 2005Icar..177..129S
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 82.5, alt-low: 65.0, alt-high: 100.0, mix: 1.8e-06, mix-low: 0.0,
     mix-high: 3.6e-06}
 - citation: Mukhin1982
-  DOI: null
+  DOI: 1982SvAL....8..216M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     13, 14'
   data:
   - {alt: 53.5, alt-low: 49.0, alt-high: 58.0, mix: 0.0007, mix-low: 0.0004,
     mix-high: 0.001}
 - citation: Chamber2013
-  DOI: null
+  DOI: 2013Icar..222..364C
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     13, 14'
   data:
   - {alt: 7.5, alt-low: 0.0, alt-high: 15.0, mix: 3.1e-05, mix-low: 2.2e-05,
     mix-high: 4.0e-05}
 - citation: Encrenaz2015
-  DOI: null
+  DOI: 2015P&SS..113..275E
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 92.5, alt-low: 65.0, alt-high: 120.0, mix: 2.5e-06, mix-low: 1.9e-06,
     mix-high: 3.1e-06}
 - citation: Arney2014
-  DOI: null
+  DOI: 2014JGRE..119.1860A
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 35.0, alt-low: 30.0, alt-high: 40.0, mix: 3.4e-05, mix-low: 3.2e-05,
@@ -439,13 +439,13 @@ H2O:
   - {alt: 7.5, alt-low: 0.0, alt-high: 15.0, mix: 2.7e-05, mix-low: 2.5e-05,
     mix-high: 2.9e-05}
 - citation: Marcq2008
-  DOI: null
+  DOI: 2008JGRE..113.0B07M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 35.0, alt-low: 30.0, alt-high: 40.0, mix: 3.1e-05, mix-low: 2.9e-05,
     mix-high: 3.3e-05}
 - citation: Bell1991
-  DOI: null
+  DOI: 1991Sci...252.1293B
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 65.0, alt-low: 65.0, alt-high: 65.0, mix: 8.0e-07, mix-low: 8.0e-07,
@@ -455,7 +455,7 @@ H2O:
   - {alt: 40.0, alt-low: 40.0, alt-high: 40.0, mix: 0.0002, mix-low: 0.0002,
     mix-high: 0.0002}
 - citation: Meadows1996
-  DOI: null
+  DOI: 1996JGR...101.4595M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 10.0, alt-low: 10.0, alt-high: 10.0, mix: 4.5e-05, mix-low: 3.5e-05,
@@ -465,7 +465,7 @@ H2O:
   - {alt: 7.5, alt-low: 0.0, alt-high: 15.0, mix: 4.5e-05, mix-low: 3.0e-05,
     mix-high: 6.0e-05}
 - citation: Cottini2012
-  DOI: null
+  DOI: 2012Icar..217..561C
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 69.5, alt-low: 69.5, alt-high: 69.5, mix: 3.0e-06, mix-low: 2.0e-06,
@@ -475,27 +475,27 @@ H2O:
   - {alt: 70.0, alt-low: 65.0, alt-high: 75.0, mix: 5.0e-06, mix-low: 3.0e-06,
     mix-high: 7.0e-06}
 - citation: Pollack1993
-  DOI: null
+  DOI: 1993Icar..103....1P
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 25.0, alt-low: 10.0, alt-high: 40.0, mix: 3.0e-05, mix-low: 2.0e-05,
     mix-high: 4.0e-05}
 - citation: Marcq2006
-  DOI: null
+  DOI: 2006P&SS...54.1360M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Vega 1,
     Vega 2'
   data:
   - {alt: 35.0, alt-low: 30.0, alt-high: 40.0, mix: 2.6e-05, mix-low: 2.2e-05,
     mix-high: 3.0e-05}
 - citation: Fedorova2008
-  DOI: null
+  DOI: 2008JGRE..113.0B22F
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     11, 12'
   data:
   - {alt: 90.0, alt-low: 70.0, alt-high: 110.0, mix: 1.0e-06, mix-low: 1.0e-07,
     mix-high: 1.9e-06}
 - citation: Donahue1992
-  DOI: null
+  DOI: 1992JGR....97.6083D
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     11, 12'
   data:
@@ -504,7 +504,7 @@ H2O:
   - {alt: 18.0, alt-low: 10.0, alt-high: 26.0, mix: 2.8e-05, mix-low: 1.0e-05,
     mix-high: 4.6e-05}
 - citation: Bezard2007
-  DOI: null
+  DOI: 2007JGRE..112.4S07B
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 22.5, alt-low: 5.0, alt-high: 40.0, mix: 3.0e-05, mix-low: 2.0e-05,
@@ -512,17 +512,17 @@ H2O:
   - {alt: 7.5, alt-low: 0.0, alt-high: 15.0, mix: 4.4e-05, mix-low: 3.5e-05,
     mix-high: 5.3e-05}
 - citation: Surkov1982
-  DOI: null
+  DOI: 1982PAZh....8..411S
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 48.0, alt-low: 46.0, alt-high: 50.0, mix: 0.0, mix-low: 0.0, mix-high: 0.0}
 - citation: Surkov1987
-  DOI: null
+  DOI: 1987KosIs..25..678S
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 56.0, alt-low: 52.0, alt-high: 60.0, mix: 0.0, mix-low: 0.0, mix-high: 0.0}
 - citation: deBergh1995
-  DOI: null
+  DOI: 1995AdSpR..15d..79D
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 35.0, alt-low: 30.0, alt-high: 40.0, mix: 3.0e-05, mix-low: 2.0e-05,
@@ -538,14 +538,14 @@ H2O:
   - {alt: 7.5, alt-low: 0.0, alt-high: 15.0, mix: 3.0e-05, mix-low: 1.5e-05,
     mix-high: 4.5e-05}
 - citation: Bezard1990
-  DOI: null
+  DOI: 1990Natur.345..508B
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     11, 12'
   data:
   - {alt: 40.0, alt-low: 35.0, alt-high: 45.0, mix: 4.0e-05, mix-low: 2.0e-05,
     mix-high: 6.0e-05}
 - citation: Moroz1979
-  DOI: null
+  DOI: 1979SvAL....5..118M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 42.0, alt-low: 42.0, alt-high: 42.0, mix: 0.00015, mix-low: 0.0001,
@@ -555,7 +555,7 @@ H2O:
   - {alt: 0.0, alt-low: 0.0, alt-high: 0.0, mix: 2.0e-05, mix-low: 1.0e-05,
     mix-high: 3.0e-05}
 - citation: Tsang2008
-  DOI: null
+  DOI: 2008JGRE..113.0B08T
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venus
     Express'
   data:
@@ -566,7 +566,7 @@ H2O:
 
 HCl:
 - citation: Connes1967
-  DOI: null
+  DOI: 1967ApJ...147.1230C
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 52.5, alt-low: 35.0, alt-high: 70.0, mix: 5.0e-07, mix-low: 3.8e-07,
@@ -574,7 +574,7 @@ HCl:
   - {alt: 70.0, alt-low: 65.0, alt-high: 75.0, mix: 6.0e-07, mix-low: 5.0e-07,
     mix-high: 7.0e-07}
 - citation: Arney2014
-  DOI: null
+  DOI: 2014JGRE..119.1860A
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 20.0, alt-low: 15.0, alt-high: 25.0, mix: 4.1e-07, mix-low: 3.7e-07,
@@ -582,7 +582,7 @@ HCl:
   - {alt: 20.0, alt-low: 15.0, alt-high: 25.0, mix: 4.2e-07, mix-low: 3.65e-07,
     mix-high: 4.75e-07}
 - citation: Sandor2012
-  DOI: null
+  DOI: 2012Icar..220..618S
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 70.0, alt-low: 70.0, alt-high: 70.0, mix: 4.0e-07, mix-low: 3.6e-07,
@@ -590,7 +590,7 @@ HCl:
   - {alt: 90.0, alt-low: 90.0, alt-high: 90.0, mix: 2.0e-07, mix-low: 1.8e-07,
     mix-high: 2.2e-07}
 - citation: Bezard1990
-  DOI: null
+  DOI: 1990Natur.345..508B
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 35.0, alt-low: 30.0, alt-high: 40.0, mix: 5.0e-09, mix-low: 3.0e-09,
@@ -600,7 +600,7 @@ HCl:
   - {alt: 22.5, alt-low: 15.0, alt-high: 30.0, mix: 5.0e-07, mix-low: 4.5e-07,
     mix-high: 5.5e-07}
 - citation: Iwagami2008
-  DOI: null
+  DOI: 2008P&SS...56.1424I
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 64.0, alt-low: 61.0, alt-high: 67.0, mix: 7.6e-07, mix-low: 6.6e-07,
@@ -608,7 +608,7 @@ HCl:
   - {alt: 50.0, alt-low: 45.0, alt-high: 55.0, mix: 5.0e-07, mix-low: 4.5e-07,
     mix-high: 5.5e-07}
 - citation: Young1972
-  DOI: null
+  DOI: 1972Icar...17..632Y
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 36.0, alt-low: 36.0, alt-high: 36.0, mix: 4.2e-07, mix-low: 3.5e-07,
@@ -616,7 +616,7 @@ HCl:
   - {alt: 50.0, alt-low: 50.0, alt-high: 50.0, mix: 6.1e-07, mix-low: 5.5e-07,
     mix-high: 6.7e-07}
 - citation: Kras2010b
-  DOI: null
+  DOI: 2010Icar..208..539K
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 74.0, alt-low: 74.0, alt-high: 74.0, mix: 4.0e-07, mix-low: 3.7e-07,
@@ -628,21 +628,21 @@ HCl:
 
 S3:
 - citation: Maiorov2005
-  DOI: null
+  DOI: 2005SoSyR..39..267M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     11-14'
   data:
   - {alt: 11.0, alt-low: 3.0, alt-high: 19.0, mix: 6.5e-11, mix-low: 3.0e-11,
     mix-high: 1.0e-10}
 - citation: Bezard2007
-  DOI: null
+  DOI: 2007JGRE..112.4S07B
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     11'
   data:
   - {alt: 23.0, alt-low: 23.0, alt-high: 23.0, mix: 4.0e-11, mix-low: 3.0e-11,
     mix-high: 5.0e-11}
 - citation: Kras2013
-  DOI: null
+  DOI: 2013Icar..225..570K
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     11'
   data:
@@ -653,7 +653,7 @@ S3:
 
 S4:
 - citation: Kras2013
-  DOI: null
+  DOI: 2013Icar..225..570K
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     11'
   data:
@@ -664,14 +664,14 @@ S4:
 
 SO2:
 - citation: Pollack1993
-  DOI: null
+  DOI: 1993Icar..103....1P
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venus
     Express'
   data:
   - {alt: 42.0, alt-low: 42.0, alt-high: 42.0, mix: 0.00018, mix-low: 0.00011,
     mix-high: 0.00025}
 - citation: Zasova1993
-  DOI: null
+  DOI: 1993Icar..105...92Z
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Venera
     12'
   data:
@@ -680,7 +680,7 @@ SO2:
   - {alt: 62.0, alt-low: 62.0, alt-high: 62.0, mix: 1.5e-06, mix-low: 1.0e-06,
     mix-high: 2.0e-06}
 - citation: Encrenaz2012
-  DOI: null
+  DOI: 2012A&A...543A.153E
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Pioneer
     Venus'
   data:
@@ -689,20 +689,20 @@ SO2:
   - {alt: 70.0, alt-low: 70.0, alt-high: 70.0, mix: 7.5e-08, mix-low: 5.0e-08,
     mix-high: 1.0e-07}
 - citation: Gelman1979
-  DOI: null
+  DOI: 1979STIN...7925964G
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 11.0, alt-low: 0.0, alt-high: 22.0, mix: 0.00013, mix-low: 9.5e-05,
     mix-high: 0.000165}
 - citation: Oyama1979
-  DOI: null
+  DOI: 1979Sci...203..802O
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Vega 1,
     Vega 2'
   data:
   - {alt: 22.0, alt-low: 22.0, alt-high: 22.0, mix: 0.000185, mix-low: 0.000142,
     mix-high: 0.000228}
 - citation: Na1990
-  DOI: null
+  DOI: 1990JGR....95.7485N
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Vega 1,
     Vega 2'
   data:
@@ -713,14 +713,14 @@ SO2:
   - {alt: 70.0, alt-low: 65.0, alt-high: 75.0, mix: 5.0e-08, mix-low: 3.0e-08,
     mix-high: 7.0e-08}
 - citation: Greaves2020
-  DOI: null
+  DOI: 2020NatAs.tmp..178G
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Vega 1,
     Vega 2'
   data:
   - {alt: 80.0, alt-low: 75.0, alt-high: 85.0, mix: 5.0e-05, mix-low: 4.0e-05,
     mix-high: 6.0e-05}
 - citation: Arney2014
-  DOI: null
+  DOI: 2014JGRE..119.1860A
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Vega 1,
     Vega 2'
   data:
@@ -729,7 +729,7 @@ SO2:
   - {alt: 50.0, alt-low: 45.0, alt-high: 55.0, mix: 0.000126, mix-low: 9.4e-05,
     mix-high: 0.000158}
 - citation: Marcq2008
-  DOI: null
+  DOI: 2008JGRE..113.0B07M
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 35.0, alt-low: 30.0, alt-high: 40.0, mix: 0.00013, mix-low: 8.0e-05,
@@ -737,7 +737,7 @@ SO2:
   - {alt: 35.0, alt-low: 30.0, alt-high: 40.0, mix: 0.00013, mix-low: 8.0e-05,
     mix-high: 0.00018}
 - citation: Bertaux1996
-  DOI: null
+  DOI: 1996JGR...10112709B
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 12.0, alt-low: 12.0, alt-high: 12.0, mix: 2.25e-05, mix-low: 2.0e-05,
@@ -761,7 +761,7 @@ SO2:
   - {alt: 42.0, alt-low: 42.0, alt-high: 42.0, mix: 0.0002, mix-low: 0.0001,
     mix-high: 0.0003}
 - citation: Bezard2007
-  DOI: null
+  DOI: 2007JGRE..112.4S07B
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 40.0, alt-low: 35.0, alt-high: 45.0, mix: 0.00013, mix-low: 9.0e-05,
@@ -769,7 +769,7 @@ SO2:
   - {alt: 40.0, alt-low: 35.0, alt-high: 45.0, mix: 0.00013, mix-low: 9.0e-05,
     mix-high: 0.00017}
 - citation: Oyama1980
-  DOI: null
+  DOI: 1980JGR....85.7891O
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Ground'
   data:
   - {alt: 42.0, alt-low: 42.0, alt-high: 42.0, mix: 0.000176, mix-low: 0,
@@ -781,7 +781,7 @@ SO2:
   - {alt: 52.0, alt-low: 52.0, alt-high: 52.0, mix: 0.0006, mix-low: 0,
     mix-high: 0.0006}
 - citation: Hoffman1980
-  DOI: null
+  DOI: 1980JGR....85.7882H
   notes: 'From Table 4 in Rimmer et al. (2021). Observation type: Vega 1'
   data:
   - {alt: 22.0, alt-low: 22.0, alt-high: 22.0, mix: 0.0003, mix-low: 0,
