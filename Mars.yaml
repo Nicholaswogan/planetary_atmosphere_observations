@@ -49,3 +49,10 @@ HO2:
   notes: TGO
   data:
   - {alt: 15.0, alt-high: 20.0, alt-low: 10.0, mix: 15.0e-9, mix-high: 15.0e-9, mix-low: 0.0}
+
+H2:
+- citation: Krasnopolsky and Feldman (2001)
+  DOI:
+  notes: null
+  data:
+  - {alt: 10.0, alt-high: 20.0, alt-low: 0.0, mix: 15.0e-6, mix-high: 20.0e-6, mix-low: 10.0e-6}
